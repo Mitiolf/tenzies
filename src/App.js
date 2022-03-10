@@ -90,9 +90,9 @@ export default function App() {
             holdDice={() => holdDice(die.id)}
         />
     ))
-    return (
+    return (<div>
+            {tenzies && <Confetti className="confetti"/>}
         <main>
-            {tenzies && <Confetti />}
             <h1 className="title">Tenzies</h1>
             <p className="instructions">Roll until all dice are the same. 
             Click each die to freeze it at its current value between rolls.</p>
@@ -107,6 +107,6 @@ export default function App() {
                 {tenzies ? "New Game" : "Roll"}
             </button>
             <div className="timer"> {time.m > 9 ? time.m : `0${time.m}`}:{time.s > 9 ? time.s : `0${time.s}`}</div>
-        </main>
+        </main></div>
     )
 }
