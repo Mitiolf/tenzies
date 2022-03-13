@@ -5,4 +5,5 @@ I add some extra features like:
 
     - timer
     - dots instead of numbers
-    - making website responsible 
+    - responsibility
+
