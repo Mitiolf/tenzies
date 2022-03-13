@@ -4,3 +4,4 @@ It is a easy game called Tenzies
 I add some extra features like:
     - timer
     - dots instead of numbers
+    - making website responsible 
