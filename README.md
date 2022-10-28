@@ -13,7 +13,7 @@ https://scrimba.com/learn/learnreact
 
 I add some extra features like:
 
-    - Timer
-    - Dots instead of numbers
-    - Responsibility
+   - Timer
+   - Dots instead of numbers
+   - Responsibility
 
