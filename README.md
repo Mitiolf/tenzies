@@ -1,9 +1,19 @@
-This project was made on scrimba course Learn React For Free
-It is a easy game called Tenzies
+# Tenzies
+
+In this game you have ten dices.
+To win a game you need to have on all dices the same number.
+You can did it by clicking each die to freeze between rolls.
+
+
+## 
+
+It is a final project of Learn React For Free course on scrimba platform</br>
+https://scrimba.com/learn/learnreact
+
 
 I add some extra features like:
 
-    - timer
-    - dots instead of numbers
-    - responsibility
+    - Timer
+    - Dots instead of numbers
+    - Responsibility
 
