@@ -16,4 +16,5 @@ I add some extra features like:
    - Timer
    - Dots instead of numbers
    - Responsibility
+   - Design
 
