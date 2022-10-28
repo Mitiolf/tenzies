@@ -1,8 +1,8 @@
 # Tenzies
 
-In this game you have ten dices.
-To win a game you need to have on all dices the same number.
-You can did it by clicking each die to freeze between rolls.
+In this game you have ten dices.</br>
+To win a game you need to have on all dices the same number.</br>
+You can did it by clicking each die to freeze between rolls.</br>
 
 
 ## 
