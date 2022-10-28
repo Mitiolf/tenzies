@@ -10,7 +10,7 @@ body {
 }
 
 main {
-    background-color: #F5F5F5;
+    background-color: #F5F7FB;
     min-height: 460px;
     max-width: 450px;
     min-width: 450;
@@ -25,7 +25,7 @@ main {
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    box-shadow: 0px 0px 7px #F5F5F5;
+    box-shadow: 0px 0px 7px #F5F7FB;
 }
 
 .title {
