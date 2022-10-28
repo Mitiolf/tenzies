@@ -94,13 +94,13 @@ export default function App() {
             {tenzies && <Confetti className="confetti"/>}
         <main>
             <h1 className="title">Tenzies</h1>
-            <p className="instructions">Roll until all dice are the same. 
-            Click each die to freeze it at its current value between rolls.</p>
+            <p className="instructions">Roll until all dice are the same.<br/>
+            Click each die to freeze it between rolls.</p>
             <div className="dice-container">
                 {diceElements}
             </div>
             <button 
-                className="roll-dice" 
+                className="roll-dice-button" 
                 onClick={rollDiceFunction}
                 
             >
