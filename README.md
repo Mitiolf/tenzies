@@ -11,6 +11,10 @@ It is a final project of Learn React For Free course on scrimba platform</br>
 https://scrimba.com/learn/learnreact
 
 
+Deployment: </br>
+https://mitiolf.github.io/tenzies/
+
+
 I add some extra features like:
 
    - Timer
